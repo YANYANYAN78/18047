@@ -1,6 +1,6 @@
 # 18047
 # quadratic(abc)
-
+# 需要增加一些东西
 #!/usr/bin/env python
 # -*- coding: utf-8  -*-
 
